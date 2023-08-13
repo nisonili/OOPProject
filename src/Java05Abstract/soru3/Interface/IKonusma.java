@@ -1,0 +1,6 @@
+package Java05Abstract.soru3.Interface;
+
+public interface IKonusma {
+	void konus();
+
+}
